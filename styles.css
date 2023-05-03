@@ -1,0 +1,13 @@
+body{
+    background-color:greenyellow
+}
+
+ 
+ .cat{
+    background-color: forestgreen;
+    border: 2px solid black;
+    margin: 1em;
+    padding: 1em;
+    flex: 1;
+}
+
